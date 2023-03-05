@@ -1,0 +1,80 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1662494018280,414,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,411,0,319
+1662494018722,83,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,83,0,0
+1662494018973,76,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,76,0,0
+1662494019224,49,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,49,0,0
+1662494019473,78,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,78,0,0
+1662494019722,53,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,53,0,0
+1662494019973,72,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,72,0,0
+1662494020224,58,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,58,0,0
+1662494020473,74,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,74,0,0
+1662494020724,77,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,76,0,0
+1662494020974,86,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,86,0,0
+1662494021224,61,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,61,0,0
+1662494021474,75,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,75,0,0
+1662494021724,72,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,72,0,0
+1662494021973,78,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,78,0,0
+1662494022223,41,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,41,0,0
+1662494022473,79,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,79,0,0
+1662494022723,69,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,69,0,0
+1662494022974,70,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,70,0,0
+1662494023221,44,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,44,0,0
+1662494023473,77,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,77,0,0
+1662494023723,44,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,44,0,0
+1662494023973,63,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,63,0,0
+1662494024223,41,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,41,0,0
+1662494024471,68,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,68,0,0
+1662494024723,38,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,38,0,0
+1662494024973,78,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,78,0,0
+1662494025223,42,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,42,0,0
+1662494025474,76,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,76,0,0
+1662494025725,55,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,55,0,0
+1662494025974,73,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,73,0,0
+1662494026224,65,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,65,0,0
+1662494026474,82,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,82,0,0
+1662494026721,63,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,63,0,0
+1662494026974,71,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,71,0,0
+1662494027223,49,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,49,0,0
+1662494027473,76,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,75,0,0
+1662494027722,72,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,72,0,0
+1662494027973,68,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,68,0,0
+1662494028222,59,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,59,0,0
+1662494028473,67,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,67,0,0
+1662494028723,62,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,62,0,0
+1662494028971,60,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,60,0,0
+1662494029223,40,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,40,0,0
+1662494029474,75,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,75,0,0
+1662494029725,60,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,60,0,0
+1662494029972,75,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,75,0,0
+1662494030225,61,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,60,0,0
+1662494030474,93,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,93,0,0
+1662494030724,71,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,71,0,0
+1662494030973,75,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,75,0,0
+1662494031223,39,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,38,0,0
+1662494031473,76,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,76,0,0
+1662494031724,50,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,50,0,0
+1662494031974,79,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,79,0,0
+1662494032223,55,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,55,0,0
+1662494032473,80,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,80,0,0
+1662494032723,63,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,63,0,0
+1662494032973,83,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,83,0,0
+1662494033223,39,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,39,0,0
+1662494033472,78,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,78,0,0
+1662494033723,65,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,65,0,0
+1662494033974,61,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,61,0,0
+1662494034224,47,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,47,0,0
+1662494034473,69,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,69,0,0
+1662494034723,60,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,60,0,0
+1662494034974,77,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,77,0,0
+1662494035224,42,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,42,0,0
+1662494035473,78,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,78,0,0
+1662494035722,74,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,74,0,0
+1662494035976,72,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,72,0,0
+1662494036223,79,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,79,0,0
+1662494036473,93,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,93,0,0
+1662494036723,79,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,79,0,0
+1662494036972,360,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,359,0,0
+1662494037332,51,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,51,0,0
+1662494037584,79,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,79,0,0
+1662494037833,51,Create driver,201,Created,Authorization 1-1,text,true,,856,602,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,51,0,0
+1662494038084,73,Authorization,200,OK,Authorization 1-1,text,true,,377,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,73,0,0
